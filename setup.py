@@ -15,7 +15,7 @@ setup(
     description='ReST document generation tools for botocore.',
     long_description=open('README.rst').read(),
     author='Amazon Web Services',
-    url='https://github.com/botocore/bcdoc',
+    url='https://github.com/boto/bcdoc',
     packages=['bcdoc'],
     package_dir={'bcdoc': 'bcdoc'},
     install_requires=requires,
